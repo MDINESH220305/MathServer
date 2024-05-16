@@ -3,7 +3,6 @@
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
-
 ## FORMULA:
 Surface Area = 2Πrh + 2Πr<sup>2</sup>
 <br>r --> Radius of Right Cylinder
@@ -49,10 +48,8 @@ Publish the website in the given URL.
             align-items: center;
             height: 100vh;
             margin: 0;
-
-        }
-        
-    </style>
+      }
+          </style>
 </head>
 <body name="body" id="body">
     <script>
@@ -81,8 +78,7 @@ Publish the website in the given URL.
         <h1>Surface Area of Cylinder</h1>
         <h3>DINESH.M(212222043002)</h3>
 
-
-        <h2>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
+       <h2>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
         Height : <input type="text" size="30px" name="height" id="height" placeholder="Enter the Height of the cylinder">m <br><br>
         <button type="button" onclick="check()">AREA</button> <br> <br>
         Output : <input type="text" size="30px" name="result" id="result" placeholder="Output"> m<sup>2</sup></span></h2>
@@ -90,7 +86,6 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-
 ## SERVER SIDE PROCESSING:
 ![WhatsApp Image 2024-05-11 at 08 45 58_56e1bcb4](https://github.com/MDINESH220305/MathServer/assets/162429215/630c4371-7eb3-4f93-b1ad-cf6f2594673f)
 
